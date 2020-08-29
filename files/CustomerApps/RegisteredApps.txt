@@ -1,0 +1,6 @@
+Sublime;Sublime Text;
+IntelliJ;IntelliJ;
+Tracking;TimeTrackingApp;
+CMD;CMD;
+Visual;Visual Studio Code;
+Python;Python;

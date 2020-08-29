@@ -1,0 +1,75 @@
+{
+    "activities": [
+        {
+            "name": "TimeTrackingApp",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-25 00:04:34",
+                    "end_time": "2020-08-25 00:04:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-25 00:04:44",
+                    "end_time": "2020-08-25 00:04:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 14,
+                    "start_time": "2020-08-25 00:04:50",
+                    "end_time": "2020-08-25 00:05:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14
+                },
+                {
+                    "total_time": 8,
+                    "start_time": "2020-08-25 00:05:06",
+                    "end_time": "2020-08-25 00:05:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "total_time": 8,
+                    "start_time": "2020-08-25 00:04:36",
+                    "end_time": "2020-08-25 00:04:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-25 00:05:04",
+                    "end_time": "2020-08-25 00:05:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "Figure 1",
+            "time_entries": [
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-25 00:04:46",
+                    "end_time": "2020-08-25 00:04:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                }
+            ]
+        }
+    ]
+}

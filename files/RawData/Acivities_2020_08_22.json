@@ -1,0 +1,501 @@
+{
+    "activities": [
+        {
+            "name": "TimeTrackingApp",
+            "time_entries": [
+                {
+                    "total_time": 8,
+                    "start_time": "2020-08-22 19:34:06",
+                    "end_time": "2020-08-22 19:34:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8
+                },
+                {
+                    "total_time": 42,
+                    "start_time": "2020-08-22 19:34:16",
+                    "end_time": "2020-08-22 19:34:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 42
+                },
+                {
+                    "total_time": 61,
+                    "start_time": "2020-08-22 19:35:00",
+                    "end_time": "2020-08-22 19:36:01",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1
+                },
+                {
+                    "total_time": 12,
+                    "start_time": "2020-08-22 19:38:28",
+                    "end_time": "2020-08-22 19:38:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:38:54",
+                    "end_time": "2020-08-22 19:38:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:02",
+                    "end_time": "2020-08-22 19:39:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:39:28",
+                    "end_time": "2020-08-22 19:39:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:42:01",
+                    "end_time": "2020-08-22 19:42:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:43:21",
+                    "end_time": "2020-08-22 19:43:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 6,
+                    "start_time": "2020-08-22 20:51:05",
+                    "end_time": "2020-08-22 20:51:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6
+                },
+                {
+                    "total_time": 62,
+                    "start_time": "2020-08-22 20:51:41",
+                    "end_time": "2020-08-22 20:52:43",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:52:57",
+                    "end_time": "2020-08-22 20:52:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "CMD",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:34:14",
+                    "end_time": "2020-08-22 19:34:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:34:58",
+                    "end_time": "2020-08-22 19:35:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:38:40",
+                    "end_time": "2020-08-22 19:38:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:38",
+                    "end_time": "2020-08-22 19:39:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:41:59",
+                    "end_time": "2020-08-22 19:42:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:42:03",
+                    "end_time": "2020-08-22 19:42:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:52:45",
+                    "end_time": "2020-08-22 20:52:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:52:49",
+                    "end_time": "2020-08-22 20:52:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:38:42",
+                    "end_time": "2020-08-22 19:38:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 22,
+                    "start_time": "2020-08-22 19:39:04",
+                    "end_time": "2020-08-22 19:39:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:51:37",
+                    "end_time": "2020-08-22 20:51:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:52:47",
+                    "end_time": "2020-08-22 20:52:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 6,
+                    "start_time": "2020-08-22 20:52:51",
+                    "end_time": "2020-08-22 20:52:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6
+                },
+                {
+                    "total_time": 84,
+                    "start_time": "2020-08-22 20:53:29",
+                    "end_time": "2020-08-22 20:54:53",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 24
+                }
+            ]
+        },
+        {
+            "name": "Prze\u0142\u0105czanie zada\u0144",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:38:44",
+                    "end_time": "2020-08-22 19:38:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:38:48",
+                    "end_time": "2020-08-22 19:38:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:38:56",
+                    "end_time": "2020-08-22 19:39:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:36",
+                    "end_time": "2020-08-22 19:39:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 3,
+                    "start_time": "2020-08-22 19:39:40",
+                    "end_time": "2020-08-22 19:39:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3
+                },
+                {
+                    "total_time": 5,
+                    "start_time": "2020-08-22 19:39:47",
+                    "end_time": "2020-08-22 19:39:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5
+                }
+            ]
+        },
+        {
+            "name": "Mened\u017cer zada\u0144",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:38:46",
+                    "end_time": "2020-08-22 19:38:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:26",
+                    "end_time": "2020-08-22 19:39:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:39:32",
+                    "end_time": "2020-08-22 19:39:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                },
+                {
+                    "total_time": 6,
+                    "start_time": "2020-08-22 19:41:53",
+                    "end_time": "2020-08-22 19:41:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6
+                },
+                {
+                    "total_time": 8,
+                    "start_time": "2020-08-22 19:43:13",
+                    "end_time": "2020-08-22 19:43:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:43:27",
+                    "end_time": "2020-08-22 19:43:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                },
+                {
+                    "total_time": 10,
+                    "start_time": "2020-08-22 20:51:11",
+                    "end_time": "2020-08-22 20:51:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10
+                },
+                {
+                    "total_time": 28,
+                    "start_time": "2020-08-22 20:53:01",
+                    "end_time": "2020-08-22 20:53:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 28
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:54:53",
+                    "end_time": "2020-08-22 20:54:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "www.fullmatchtv.com",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:43",
+                    "end_time": "2020-08-22 19:39:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 3,
+                    "start_time": "2020-08-22 19:39:52",
+                    "end_time": "2020-08-22 19:39:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3
+                },
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 20:51:33",
+                    "end_time": "2020-08-22 20:51:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                }
+            ]
+        },
+        {
+            "name": "IntelliJ",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 19:39:45",
+                    "end_time": "2020-08-22 19:39:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "www.youtube.com",
+            "time_entries": [
+                {
+                    "total_time": 69,
+                    "start_time": "2020-08-22 19:39:55",
+                    "end_time": "2020-08-22 19:41:04",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 9
+                },
+                {
+                    "total_time": 36,
+                    "start_time": "2020-08-22 19:41:17",
+                    "end_time": "2020-08-22 19:41:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36
+                }
+            ]
+        },
+        {
+            "name": "www.github.com",
+            "time_entries": [
+                {
+                    "total_time": 13,
+                    "start_time": "2020-08-22 19:41:04",
+                    "end_time": "2020-08-22 19:41:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13
+                },
+                {
+                    "total_time": 65,
+                    "start_time": "2020-08-22 19:42:08",
+                    "end_time": "2020-08-22 19:43:13",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 5
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:51:26",
+                    "end_time": "2020-08-22 20:51:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "Quit",
+            "time_entries": [
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 19:43:23",
+                    "end_time": "2020-08-22 19:43:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                }
+            ]
+        },
+        {
+            "name": "www.docs.microsoft.com",
+            "time_entries": [
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-22 20:51:21",
+                    "end_time": "2020-08-22 20:51:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                }
+            ]
+        },
+        {
+            "name": "www.stackoverflow.com",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:51:28",
+                    "end_time": "2020-08-22 20:51:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "www.bytes.com",
+            "time_entries": [
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-22 20:51:30",
+                    "end_time": "2020-08-22 20:51:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        }
+    ]
+}

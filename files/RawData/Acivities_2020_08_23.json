@@ -1,0 +1,83 @@
+{
+    "activities": [
+        {
+            "name": "TimeTrackingApp",
+            "time_entries": [
+                {
+                    "total_time": 6,
+                    "start_time": "2020-08-23 09:54:32",
+                    "end_time": "2020-08-23 09:54:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-23 09:54:42",
+                    "end_time": "2020-08-23 09:54:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                },
+                {
+                    "total_time": 6,
+                    "start_time": "2020-08-23 11:49:09",
+                    "end_time": "2020-08-23 11:49:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6
+                },
+                {
+                    "total_time": 2,
+                    "start_time": "2020-08-23 11:49:25",
+                    "end_time": "2020-08-23 11:49:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "total_time": 4,
+                    "start_time": "2020-08-23 09:54:38",
+                    "end_time": "2020-08-23 09:54:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4
+                }
+            ]
+        },
+        {
+            "name": "Mened\u017cer zada\u0144",
+            "time_entries": [
+                {
+                    "total_time": 8,
+                    "start_time": "2020-08-23 09:54:44",
+                    "end_time": "2020-08-23 09:54:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8
+                },
+                {
+                    "total_time": 10,
+                    "start_time": "2020-08-23 11:49:15",
+                    "end_time": "2020-08-23 11:49:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10
+                },
+                {
+                    "total_time": 14,
+                    "start_time": "2020-08-23 11:49:27",
+                    "end_time": "2020-08-23 11:49:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14
+                }
+            ]
+        }
+    ]
+}

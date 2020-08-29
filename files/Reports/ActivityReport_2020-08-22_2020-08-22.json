@@ -1,0 +1,218 @@
+{
+    "TimeTrackingApp": {
+        "num_entries": 6,
+        "max_entry": {
+            "total_time": 14,
+            "start_time": "2020-08-22 16:29:26",
+            "end_time": "2020-08-22 16:29:40",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 14
+        },
+        "entries_total_time": {
+            "total_time": 36,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 36
+        }
+    },
+    "CMD": {
+        "num_entries": 8,
+        "max_entry": {
+            "total_time": 34,
+            "start_time": "2020-08-22 16:23:06",
+            "end_time": "2020-08-22 16:23:40",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 34
+        },
+        "entries_total_time": {
+            "total_time": 48,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 48
+        }
+    },
+    "Visual Studio Code": {
+        "num_entries": 4,
+        "max_entry": {
+            "total_time": 262,
+            "start_time": "2020-08-22 16:29:52",
+            "end_time": "2020-08-22 16:34:14",
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 22
+        },
+        "entries_total_time": {
+            "total_time": 360,
+            "days": 0,
+            "hours": 0,
+            "minutes": 6,
+            "seconds": 0
+        }
+    },
+    "www.fullmatchtv.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-22 16:21:33",
+            "end_time": "2020-08-22 16:21:35",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "www.": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 6,
+            "start_time": "2020-08-22 16:21:35",
+            "end_time": "2020-08-22 16:21:41",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        },
+        "entries_total_time": {
+            "total_time": 6,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        }
+    },
+    "www.pracuj.pl": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 3,
+            "start_time": "2020-08-22 16:21:41",
+            "end_time": "2020-08-22 16:21:44",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 3
+        },
+        "entries_total_time": {
+            "total_time": 3,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 3
+        }
+    },
+    "www.python decorator": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-22 16:21:44",
+            "end_time": "2020-08-22 16:21:46",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "www.python decorator with arguments": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-22 16:21:46",
+            "end_time": "2020-08-22 16:21:48",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "www.google.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 5,
+            "start_time": "2020-08-22 16:21:48",
+            "end_time": "2020-08-22 16:21:53",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 5
+        },
+        "entries_total_time": {
+            "total_time": 5,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 5
+        }
+    },
+    "www.docs.python.org": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 69,
+            "start_time": "2020-08-22 16:21:53",
+            "end_time": "2020-08-22 16:23:02",
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 9
+        },
+        "entries_total_time": {
+            "total_time": 71,
+            "days": 0,
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 11
+        }
+    },
+    "Zapisywanie jako": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-22 16:23:02",
+            "end_time": "2020-08-22 16:23:04",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "Prze\u0142\u0105czanie zada\u0144": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-22 16:35:10",
+            "end_time": "2020-08-22 16:35:12",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 4,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 4
+        }
+    }
+}

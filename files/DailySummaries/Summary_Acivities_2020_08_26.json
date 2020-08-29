@@ -1,0 +1,200 @@
+{
+    "TimeTrackingApp": {
+        "num_entries": 16,
+        "max_entry": {
+            "total_time": 32,
+            "start_time": "2020-08-26 20:37:35",
+            "end_time": "2020-08-26 20:38:07",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 32
+        },
+        "entries_total_time": {
+            "total_time": 117,
+            "days": 0,
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 57
+        }
+    },
+    "Visual Studio Code": {
+        "num_entries": 13,
+        "max_entry": {
+            "total_time": 78,
+            "start_time": "2020-08-26 20:34:18",
+            "end_time": "2020-08-26 20:35:36",
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 18
+        },
+        "entries_total_time": {
+            "total_time": 146,
+            "days": 0,
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 26
+        }
+    },
+    "www.mail.google.com": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 3,
+            "start_time": "2020-08-26 15:36:19",
+            "end_time": "2020-08-26 15:36:22",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 3
+        },
+        "entries_total_time": {
+            "total_time": 6,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        }
+    },
+    "www.onet.pl": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 6,
+            "start_time": "2020-08-26 15:36:22",
+            "end_time": "2020-08-26 15:36:28",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        },
+        "entries_total_time": {
+            "total_time": 6,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        }
+    },
+    "www.plotly.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 8,
+            "start_time": "2020-08-26 15:36:28",
+            "end_time": "2020-08-26 15:36:36",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 8
+        },
+        "entries_total_time": {
+            "total_time": 8,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 8
+        }
+    },
+    "www.google.pl": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-26 15:36:39",
+            "end_time": "2020-08-26 15:36:41",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 4,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 4
+        }
+    },
+    "www.youtube.com": {
+        "num_entries": 5,
+        "max_entry": {
+            "total_time": 24,
+            "start_time": "2020-08-26 20:36:55",
+            "end_time": "2020-08-26 20:37:20",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 24
+        },
+        "entries_total_time": {
+            "total_time": 43,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 43
+        }
+    },
+    "Prze\u0142\u0105czanie zada\u0144": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 81,
+            "start_time": "2020-08-26 15:37:32",
+            "end_time": "2020-08-26 15:38:53",
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 21
+        },
+        "entries_total_time": {
+            "total_time": 83,
+            "days": 0,
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 23
+        }
+    },
+    "www.kutno.net.pl": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-26 20:35:36",
+            "end_time": "2020-08-26 20:35:38",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "www.otomoto.pl": {
+        "num_entries": 3,
+        "max_entry": {
+            "total_time": 4,
+            "start_time": "2020-08-26 20:36:19",
+            "end_time": "2020-08-26 20:36:23",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 4
+        },
+        "entries_total_time": {
+            "total_time": 8,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 8
+        }
+    },
+    "Lista szybkiego dost\u0119pu dla Eksplorator plik\u00f3w": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-26 20:36:39",
+            "end_time": "2020-08-26 20:36:41",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    }
+}

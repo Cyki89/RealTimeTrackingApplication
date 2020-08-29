@@ -1,0 +1,15 @@
+SUMMARY_DIR;files/DailySummaries;
+REPORT_DIR;files/Reports;
+JSON_DIR;files/RawData;
+LOG_FILE;files/Logs/Errors.txt;
+APP_DIR;files/CustomerApps;
+REGISTERED_APPS_FILE;files/CustomerApps/RegisteredApps.txt;
+UNKNOWN_APPS_FILE;files/CustomerApps/UnknownApps.txt;
+WEB_DIR;files/CustomerWebsites;
+REGISTERED_WEBSITES_FILE;files/CustomerWebsites/RegisteredWebsites.txt;
+UNKNOWN_WEBSITES_FILE;files/CustomerWebsites/UnknownWebsites.txt;
+APP_LOGO_FILE;files/ApplicationLogo.png;
+SETTINGS_DIR;files/Settings;
+SETTINGS_FILE;files/Settings/Settings.json;
+BASE_SETTINGS_FILE;files/Settings/BaseSettings.txt;
+PATCHS_FILE;files/Settings/PathsFile.txt;

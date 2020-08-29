@@ -1,0 +1,4 @@
+KCI;www.kutno.net.pl;
+otomoto.pl;www.otomoto.pl;
+YouTube;www.youtube.com;
+Google;www.google.pl;

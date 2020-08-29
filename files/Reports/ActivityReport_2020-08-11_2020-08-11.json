@@ -1,0 +1,164 @@
+{
+    "TimeTrackingApp": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-11 20:47:46",
+            "end_time": "2020-08-11 20:47:48",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "Sublime Text": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 4,
+            "start_time": "2020-08-11 20:47:48",
+            "end_time": "2020-08-11 20:47:53",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 4
+        },
+        "entries_total_time": {
+            "total_time": 4,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 4
+        }
+    },
+    "https://code.activestate.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-11 20:47:53",
+            "end_time": "2020-08-11 20:47:55",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "https://youtube.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-11 20:47:55",
+            "end_time": "2020-08-11 20:47:57",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "https://stackoverflow.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 2,
+            "start_time": "2020-08-11 20:47:57",
+            "end_time": "2020-08-11 20:48:00",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        },
+        "entries_total_time": {
+            "total_time": 2,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 2
+        }
+    },
+    "https://facebook.com": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 14,
+            "start_time": "2020-08-11 20:48:00",
+            "end_time": "2020-08-11 20:48:14",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 14
+        },
+        "entries_total_time": {
+            "total_time": 14,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 14
+        }
+    },
+    "Prze\u0142\u0105czanie zada\u0144": {
+        "num_entries": 3,
+        "max_entry": {
+            "total_time": 6,
+            "start_time": "2020-08-11 20:48:14",
+            "end_time": "2020-08-11 20:48:20",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 6
+        },
+        "entries_total_time": {
+            "total_time": 14,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 14
+        }
+    },
+    "https://codewithmosh.com": {
+        "num_entries": 2,
+        "max_entry": {
+            "total_time": 366,
+            "start_time": "2020-08-11 20:48:35",
+            "end_time": "2020-08-11 20:54:42",
+            "hours": 0,
+            "minutes": 6,
+            "seconds": 6
+        },
+        "entries_total_time": {
+            "total_time": 370,
+            "days": 0,
+            "hours": 0,
+            "minutes": 6,
+            "seconds": 10
+        }
+    },
+    "CMD": {
+        "num_entries": 1,
+        "max_entry": {
+            "total_time": 30,
+            "start_time": "2020-08-11 20:54:42",
+            "end_time": "2020-08-11 20:55:12",
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 30
+        },
+        "entries_total_time": {
+            "total_time": 30,
+            "days": 0,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 30
+        }
+    }
+}
