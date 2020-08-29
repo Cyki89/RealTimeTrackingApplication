@@ -40,7 +40,7 @@ The inspiration for this project was taken from https://www.youtube.com/watch?v=
 
 
 ## How to run application
-- <i>Download repository</i> - git clone https://github.com/Cyki89/TimeTrackingApp.git.
+- <i>Download repository</i> - git clone https://github.com/Cyki89/RealTimeTrackingApplication#tutorial.
 - <i>Create new virtual enviroment</i> - mkvirtualenv --python=<your python 3.8 location> virtualenv_name.
 - <i>Install dependecies</i> - pip install -r requirements.txt.
 - <i>Go to main application folder</i> - cd TimeTrackingApp.
@@ -55,6 +55,7 @@ The inspiration for this project was taken from https://www.youtube.com/watch?v=
 
 - Click button <b>"Start Time Tracking"</b> to start time tracking
 - Click button <b>"Stop Time Tracking"</b> to stop time tracking
+- Click button <b>"Tutorial"</b> to see application guide in web browser
 - In the upper frame you can see the daily activity summary, refreshed every 2 minutes
 - In the lower frame you can see the daily activity summary plot, refreshed every 2 minutes
 - If you see <b><UNKNOWN_APP></b> in the table then you should register the application (see MyApps section)

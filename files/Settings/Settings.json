@@ -35,7 +35,7 @@
     "TEMP_PLOT": "files/TempPlot.png",
     "SETTINGS_DIR": "files/Settings",
     "SETTINGS_FILE": "files/Settings/Settings.json",
-    "TUTORIAL_PATH": "https://github.com/Cyki89/TimeTrackingApp/blob/master/README.md#tutorial",
+    "TUTORIAL_PATH": "https://github.com/Cyki89/RealTimeTrackingApplication#tutorial",
     "BASE_SETTINGS_FILE": "files/Settings/BaseSettings.txt",
     "PATCHS_FILE": "files/Settings/PathsFile.txt"
 }
