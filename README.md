@@ -40,7 +40,7 @@ The inspiration for this project was taken from https://www.youtube.com/watch?v=
 
 
 ## How to run application
-- <i>Download repository</i> - git clone https://github.com/Cyki89/RealTimeTrackingApplication#tutorial.
+- <i>Download repository</i> - git clone https://github.com/Cyki89/RealTimeTrackingApplication.git.
 - <i>Create new virtual enviroment</i> - mkvirtualenv --python=<your python 3.8 location> virtualenv_name.
 - <i>Install dependecies</i> - pip install -r requirements.txt.
 - <i>Go to main application folder</i> - cd TimeTrackingApp.
